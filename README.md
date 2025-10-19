@@ -1,5 +1,5 @@
-# Firebase Studio
+# BrandanAI
 
-This is a NextJS starter in Firebase Studio.
+GEO Tool - optimizing business for winning converstations 
 
-To get started, take a look at src/app/page.tsx.
+Developed on NextJs Stack
